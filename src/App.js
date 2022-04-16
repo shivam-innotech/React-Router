@@ -3,7 +3,7 @@ import "./App.css"
 import { Routes,Route } from 'react-router-dom'
 import AboutUs from './pages/AboutUs'
 import ContactUs from './pages/ContactUs'
-import Messages from './Pages/Messages'
+import Messages from './pages/Messages'
 import Navbar from './components/Navbar'
 
 
