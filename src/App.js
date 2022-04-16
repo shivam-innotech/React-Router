@@ -2,8 +2,8 @@ import React from 'react'
 import "./App.css"
 import { Routes,Route } from 'react-router-dom'
 import AboutUs from './pages/AboutUs'
-import ContactUs from './Pages/ContactUs'
-import Messages from './Pages/Messages'
+import ContactUs from './pages/ContactUs'
+import Messages from './pages/Messages'
 import Navbar from './components/Navbar'
 
 
