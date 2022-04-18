@@ -2,7 +2,13 @@ import React from 'react'
 
 const ContactUs = () => {
   return (
-    <div>ContactUs</div>
+    <>
+    <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, maxime.</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+
+    </>
   )
 }
 
